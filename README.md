@@ -52,9 +52,15 @@ HOW TO USE
 LICENSE
 -------------------------------------------------------
 
+Copyright (c) 2026 Lenny. All rights reserved.
+
+This software is protected by copyright law. Unauthorized use, copying,
+distribution, or modification for public or commercial purposes is strictly prohibited.
+
 Educational use only – do NOT redistribute, use publicly,
 or include in any commercial project.
 
 ==============================
 END OF README
 ==============================
+
